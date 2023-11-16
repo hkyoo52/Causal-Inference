@@ -1,0 +1,7 @@
+#### 시차를 두고 발생한 원인에 대한 DID 활용
+* 1번 시점 : B,C는 A와 비교 가능 -> Good Compare
+* 2,3번 시점 : A는 Treatment 이후에 시간에 따라 변함. 그래서 A와 다른 것을 비교하기 어려움 -> Bad Compare
+  * Ex. 3번 시점에 A와 B는 서로 비교 X
+ ![image](https://github.com/hkyoo52/Causal-Inference/assets/63588046/122b1aaf-6cd0-4559-9d7d-15719c53ca75)
+
+// 12:36
